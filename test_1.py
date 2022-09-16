@@ -1,5 +1,5 @@
 import time
-aaa = 10
+a = 10
 b = 100
 c = a+b
 d = c+20
